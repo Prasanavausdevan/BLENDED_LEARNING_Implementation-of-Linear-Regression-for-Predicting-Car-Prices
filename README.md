@@ -1,4 +1,4 @@
-![Ex-1-Chart1](https://github.com/user-attachments/assets/8ff1dfcc-3f01-4df3-89b7-400397637699)![Ex-1-Chart1](https://github.com/user-attachments/assets/c86d794f-acf2-4fb2-b5f8-da7824884d5f)# Implementation-of-Linear-Regression-for-Predicting-Car-Prices
+# Implementation-of-Linear-Regression-for-Predicting-Car-Prices
 ## AIM:
 To write a program to predict car prices using a linear regression model and test the assumptions for linear regression.
 
